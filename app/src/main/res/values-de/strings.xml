@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Workshop Gfu</string>
+    <string name="location">Ort</string>
+    <string name="likes">Gefällt %d Leuten</string>
+</resources>
